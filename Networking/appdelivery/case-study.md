@@ -1,5 +1,3 @@
-Azure Networking #2 - アプリケーション配信基盤の設計・展開 # **[prev](./application-delivery.md)** | **[home](./README.md)**
-
 # 4. ネットワークアーキテクチャー事例
 
 本章ではよくあるネットワークのアーキテクチャーとしていくつか例を紹介します。

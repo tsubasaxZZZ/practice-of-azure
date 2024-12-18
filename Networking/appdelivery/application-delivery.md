@@ -1,5 +1,3 @@
-Azure Networking #2 - アプリケーション配信基盤の設計・展開 # **[prev](../overview.md)** | **[home](./README.md)**  | **[next](./case-study.md)**
-
 # 3. アプリケーション配信のためのネットワーク設計ポイント
 
 ## 設計～展開のステップ
